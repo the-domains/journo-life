@@ -1,0 +1,28 @@
+name: journo life
+favicon: null
+layout_spectrum: 0.7391844596713781
+typography_spectrum: 0.252505567856133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.18322559678927064
+  lightness: 0.9084072150290012
+  saturation: 0.271498000016436
+  rhythmicContrast: 0.08727885014377534
+purpose: []
